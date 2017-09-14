@@ -8,4 +8,4 @@
 50
 
 ## 解法
-burpsuite修改http头部NAIVE,zh-HK即可
+burpsuite抓包修改http头部的user-agent含有`NAIVE`，language含有`zh-HK`，访问即可看到flag。

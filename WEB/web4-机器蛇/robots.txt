@@ -1,0 +1,3 @@
+user-agent: 
+Disallow: /flag327a6c4304ad5938eaf0efb6cc3e53dc.php
+Disallow: /index.html

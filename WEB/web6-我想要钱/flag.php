@@ -1,0 +1,4 @@
+<?php
+    $flag="moctf{xxxxxxxxxx}";
+?>
+
