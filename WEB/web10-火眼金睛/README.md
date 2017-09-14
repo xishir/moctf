@@ -1,7 +1,11 @@
-��Ŀ�����۽�
+## 题目
+火眼金睛
 
-���������ǧ������֮��ʶ��������flag��
+## 描述
+汝可千军万马之中识得吾项上flag？
 
-flag��moctf{Programming_1s_important_!!}
+## 分值
+200
 
-��ֵ��200
+## 解法
+编写python脚本获取页面，再查询moctf个数提交给服务器即可，考察脚本编写能力。
