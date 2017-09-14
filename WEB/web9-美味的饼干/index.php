@@ -2,7 +2,7 @@
 
 header("Content-type: text/html; charset=utf-8");
 
-$flag="moctf{Co0kie_is_1nter4sting}";
+$flag="moctf{xxxxxxxxxx}";
 $echo=0;
 
 if(isset($_POST['user'])&&isset($_POST['pass']))
