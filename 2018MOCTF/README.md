@@ -42,9 +42,9 @@
 | 先越过这道栅栏再说 |  |
 | 空word | https://www.codemonster.cn/2018/02/13/2018-moctf-happy-writeup/ |
 | 一万年的爱有多久 |  |
-| 是兄弟就来干我 | http://blog.csdn.net/saltyfish_yuch/article/details/79325772 |
+| 是兄弟就来干我 | http://saltyfishyu.xmutsec.com/index.php/2018/02/17/6.html |
 | Hacker!!! | http://sheldon.xmutsec.com/index.php/2018/02/14/Spring.html |
-| 李华的疑惑 | http://blog.csdn.net/saltyfish_yuch/article/details/79325772 |
+| 李华的疑惑 | http://saltyfishyu.xmutsec.com/index.php/2018/02/17/6.html |
 
 ## 签到
 
