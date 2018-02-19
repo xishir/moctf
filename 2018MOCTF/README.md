@@ -9,12 +9,12 @@
 
 | 题目              | WriteUp                                 |
 | --------------- | ---------------------------------------- |
-| 是时候让你手指锻炼一下了 | |
+| 是时候让你手指锻炼一下了 |  |
 | ez Injection | http://sheldon.xmutsec.com/index.php/2018/02/14/Spring.html |
 | 要认真 | http://www.lmxspace.com/2018/02/14/Happy-Moctf-%E8%A6%81%E8%AE%A4%E7%9C%9F/ |
 | PUBG | http://sheldon.xmutsec.com/index.php/2018/02/14/Spring.html |
 | 登录一哈 | https://www.codemonster.cn/2018/02/13/2018-moctf-happy-writeup/ |
-| ping一下好吗 | |
+| ping一下好吗 | http://daiker.com.cn/2018/02/15/happyMoctf-ping一下好吗WP/ |
 | 字符串检查 | https://www.codemonster.cn/2018/02/13/2018-moctf-happy-writeup/ |
 | 简单审计 | https://www.codemonster.cn/2018/02/13/2018-moctf-happy-writeup/ |
 
@@ -22,12 +22,12 @@
 
 | 题目              | WriteUp                                 |
 | --------------- | ---------------------------------------- |
-| easyre |  |
-| crackme1 |  |
-| 我的VIP呢，那么大个的VIP |  |
-| crackme2 |  |
-| 哇，有毒吧 |  |
-| 迷一般的加减 |  |
+| easyre | http://blog.csdn.net/qq_35495684/article/details/79327954 |
+| crackme1 | http://blog.csdn.net/qq_35495684/article/details/79327954 |
+| 我的VIP呢，那么大个的VIP | http://blog.csdn.net/qq_35495684/article/details/79327954 |
+| crackme2 | http://blog.csdn.net/qq_35495684/article/details/79327954 |
+| 哇，有毒吧 | http://blog.csdn.net/qq_35495684/article/details/79327954 |
+| 迷一般的加减 | http://blog.csdn.net/qq_35495684/article/details/79327954 |
 
 
 
